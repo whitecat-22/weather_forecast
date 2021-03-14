@@ -2,7 +2,10 @@
 
 openweathermap.api により天気予報を取得する
 
-例： 緯度(lat)=35.7197, 経度(lon)=139.9247
+【例】 緯度(lat)=35.7197, 経度(lon)=139.9247
+
+APIパラメータ：
+（参照）[https://openweathermap.org/api/one-call-api](https://openweathermap.org/api/one-call-api)
 
 取得したjsonデータ内容：
 
